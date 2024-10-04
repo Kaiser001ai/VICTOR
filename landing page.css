@@ -1,0 +1,33 @@
+main{
+    background-color: rgb(115, 145, 70); 
+    /* height: 100px; */
+    width: 400px;
+    padding: 6px;
+    margin: auto;
+    border-radius: 16px;
+}
+img{
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+    height: 300px;
+}
+h3{
+    font-size: 24px;
+}
+button{
+    padding: 8px;
+    border-radius: 50px;
+    width: 50%;
+    color: blue;
+    background-color: white;
+}
+body{
+    background-image: url(./IMAGE/NIGHT\ LIFE.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+}
